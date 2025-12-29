@@ -1,6 +1,6 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
 
-**AIM:**
+**AIM:** 
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
 
